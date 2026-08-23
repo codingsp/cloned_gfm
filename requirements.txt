@@ -1,0 +1,4 @@
+requests
+tqdm
+tabulate
+urllib3<2
