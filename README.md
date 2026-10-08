@@ -1,5 +1,5 @@
 <div align="left">
-  <h1>GoFundMe Donors Export</h1>
+  <h1>GoFundMe Donors Export (CLONED)</h1>
   <p><em>A fast, reliable Python script to scrape GoFundMe campaigns and export donor data.</em></p>
 </div>
 
